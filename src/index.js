@@ -49,4 +49,4 @@ export class MyCounter extends LitElement {
   }
 }
 
-customElements.define("my-counter", MyCounter);
+customElements.define("counter-shotofcode", MyCounter);
